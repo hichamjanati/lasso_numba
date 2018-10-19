@@ -1,4 +1,3 @@
-.. -*- mode: md -*-
 
 Lasso Numpy vs Numba vs Cython
 ==============================
